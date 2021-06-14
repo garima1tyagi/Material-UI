@@ -1,0 +1,8 @@
+/* Shadows */
+:root {
+  --state-inactive: inset 0px -1px 0px 0px #e3e5ee;
+  --state-active: 0px 8px 16px 0px #191e2b29, inset 0px -3px 0px 0px #0b1421;
+  --state-hover: 0px 4px 8px 0px #191e2b14, inset 0px -2px 0px 0px #4d5160;
+  --state-error: inset 0px -3px 0px 0px #d52b1e, 0px -4px 8px 0px #151a2614, 0px 4px 8px 0px #d52b1e14;
+  --state-focus: 0px 4px 8px 0px #191e2b14, inset 0px -2px 0px 0px #4d5160;
+}
