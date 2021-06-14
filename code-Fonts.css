@@ -1,0 +1,68 @@
+/* fonts */
+:root {        
+--primary-font: Roboto;
+--raleway-700: Raleway;
+--raleway-400: Raleway;
+--proxima-nova-700: Proxima Nova;
+}
+/* text styles*/
+.display-1 {
+  font-family : var(--primary-font);
+  font-size : 48px;
+  line-height: 57px;
+  letter-spacing : 0.1em;
+}
+.display-2 {
+  font-family : var(--primary-font);
+  font-size : 40px;
+  line-height: 48px;
+  letter-spacing : 0.1em;
+}
+.h-1 {
+  font-family : var(--primary-font);
+  font-size : 33px;
+  line-height: 40px;
+  letter-spacing : 0.1em;
+}
+.h-2 {
+  font-family : var(--primary-font);
+  font-size : 28px;
+  line-height: 35px;
+  letter-spacing : 0.1em;
+}
+.h-3 {
+  font-family : var(--primary-font);
+  font-size : 23px;
+  line-height: 29px;
+  letter-spacing : 0.1em;
+}
+.h-4 {
+  font-family : var(--primary-font);
+  font-size : 19px;
+  line-height: 25px;
+  letter-spacing : 0.1em;
+}
+.h-5 {
+  font-family : var(--primary-font);
+  font-size : 16px;
+  line-height: 22px;
+  letter-spacing : 0.1em;
+}
+.body {
+  font-family : var(--primary-font);
+  font-size : 16px;
+  line-height: 22px;
+  letter-spacing : 0.1em;
+}
+.small {
+  font-family : var(--primary-font);
+  font-size : 13px;
+  line-height: 18px;
+  letter-spacing : 0.1em;
+}
+.x-small {
+  font-family : var(--primary-font);
+  font-size : 11px;
+  line-height: 16px;
+  letter-spacing : 0.1em;
+}
