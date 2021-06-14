@@ -1,0 +1,11 @@
+/* SpacePatterns */
+:root {
+  --none: 0px;
+  --xx-small: 2px;
+  --x-small: 4px;
+  --small: 8px;
+  --regular: 16px;
+  --large: 32px;
+  --x-large: 64px;
+  --xx-large: 128px;
+}
